@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
   }
 
+=======
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+  }
+
+>>>>>>> 8e60e23501c328e30f365caf9a7cfac7a2f2cf80
   @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap');
