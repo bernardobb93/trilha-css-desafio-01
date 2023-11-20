@@ -62,3 +62,15 @@ section{
     font-size: 1.25rem;
 }
 
+.banner-content button {
+    
+    text-transform: uppercase;
+    margin: 29px;
+    width: 326px;
+    padding: 19px 60px; 
+    font-weight: bold;
+    background-color: transparent;
+    border-color: #31A8DD;
+    color: #31A8DD;
+    font-size: 16px;  
+}
