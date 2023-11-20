@@ -43,7 +43,7 @@ body {
     -webkit-background-clip: text;
     color: transparent;
     font-size: 2.5rem;
-    font-weight: 900px;
+    font-weight: 900;
     margin-top: 16px;
     background: -webkit-linear-gradient(#33A8DB, #1472B7);
 }
