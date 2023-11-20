@@ -53,7 +53,7 @@ section{margin: 100px auto;}
     text-align: center;
     width: 600px;
     text-indent: 11px;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 .banner button{
@@ -62,4 +62,9 @@ section{margin: 100px auto;}
     -webkit-background-clip: text;
     color: transparent;
     background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    margin:29px;
+    border-color: #31A8DD;
+    width: 326px;
+    padding: 19px 60px;
+    
 }
