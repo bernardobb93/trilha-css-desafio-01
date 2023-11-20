@@ -1,8 +1,9 @@
 @import url('reset.css');
 
-body {
-    background-color: black;
-}
+body {background-color: black;}
+h1{padding:16px;}
+section{margin: 100px auto;}
+
 
 .banner{
     background: linear-gradient(rgba(0,0,0,0.6),rgba(49,168,221,0.2),rgba(0,0,0,0.6)), url('assets/images/banner.png');
