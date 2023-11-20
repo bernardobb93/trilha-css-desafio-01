@@ -55,3 +55,11 @@ section{margin: 100px auto;}
     text-indent: 11px;
     font-size: 1.5rem;
 }
+
+.banner button{
+    text-transform: uppercase;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+}
