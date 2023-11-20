@@ -58,7 +58,7 @@ section{margin: 100px auto;}
 
 .banner button{
     text-transform: uppercase;
-    color: transparent;
+    background-color: transparent;
     margin:29px;
     border-color: #31A8DD;
     width: 326px;
